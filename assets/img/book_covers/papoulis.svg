@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+  <rect width="600" height="900" fill="#102542"/>
+  <rect x="36" y="36" width="528" height="828" rx="18" fill="#183153"/>
+  <text x="60" y="120" fill="#8ecae6" font-family="Georgia, serif" font-size="28">Currently Reading</text>
+  <text x="60" y="210" fill="#ffffff" font-family="Georgia, serif" font-size="46">Probability,</text>
+  <text x="60" y="270" fill="#ffffff" font-family="Georgia, serif" font-size="46">Random Variables,</text>
+  <text x="60" y="330" fill="#ffffff" font-family="Georgia, serif" font-size="46">and Stochastic</text>
+  <text x="60" y="390" fill="#ffffff" font-family="Georgia, serif" font-size="46">Processes</text>
+  <line x1="60" y1="455" x2="330" y2="455" stroke="#ffb703" stroke-width="8"/>
+  <text x="60" y="560" fill="#d9e6f2" font-family="Helvetica, Arial, sans-serif" font-size="28">Athanasios Papoulis</text>
+  <text x="60" y="600" fill="#d9e6f2" font-family="Helvetica, Arial, sans-serif" font-size="28">&amp; S. Unnikrishna Pillai</text>
+  <circle cx="470" cy="700" r="72" fill="#ffb703"/>
+  <text x="435" y="713" fill="#102542" font-family="Helvetica, Arial, sans-serif" font-size="36">P</text>
+</svg>

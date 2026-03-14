@@ -4,9 +4,9 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-redirect_to: example_pdf.pdf
-cv_pdf: example_pdf.pdf  # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+redirect_to: /assets/pdf/BhaveshCV.pdf
+cv_pdf: /assets/pdf/BhaveshCV.pdf
+description:
 toc:
   sidebar: left
 ---
