@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+  <rect width="600" height="900" fill="#f8f1e7"/>
+  <rect x="32" y="32" width="536" height="836" rx="20" fill="#fffaf3" stroke="#222222" stroke-width="4"/>
+  <text x="60" y="120" fill="#9a3412" font-family="Helvetica, Arial, sans-serif" font-size="26">Completed</text>
+  <text x="60" y="210" fill="#111111" font-family="Georgia, serif" font-size="44">Build a Large</text>
+  <text x="60" y="270" fill="#111111" font-family="Georgia, serif" font-size="44">Language Model</text>
+  <text x="60" y="330" fill="#111111" font-family="Georgia, serif" font-size="44">(From Scratch)</text>
+  <rect x="60" y="390" width="180" height="8" fill="#dc2626"/>
+  <text x="60" y="510" fill="#374151" font-family="Helvetica, Arial, sans-serif" font-size="30">Sebastian Raschka</text>
+  <path d="M360 220 C430 180 505 220 510 300 C515 380 455 420 410 470 C370 515 355 575 386 650" fill="none" stroke="#6b7280" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="404" cy="640" r="54" fill="#d4a373"/>
+  <circle cx="404" cy="620" r="20" fill="#fffaf3"/>
+</svg>

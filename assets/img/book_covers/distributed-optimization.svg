@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+  <rect width="600" height="900" fill="#111827"/>
+  <rect x="36" y="36" width="528" height="828" rx="18" fill="#1f2937"/>
+  <text x="60" y="120" fill="#34d399" font-family="Helvetica, Arial, sans-serif" font-size="26">Completed</text>
+  <text x="60" y="205" fill="#ffffff" font-family="Georgia, serif" font-size="38">Distributed</text>
+  <text x="60" y="255" fill="#ffffff" font-family="Georgia, serif" font-size="38">Optimization,</text>
+  <text x="60" y="305" fill="#ffffff" font-family="Georgia, serif" font-size="38">Learning,</text>
+  <text x="60" y="355" fill="#ffffff" font-family="Georgia, serif" font-size="38">and Inference</text>
+  <g stroke="#34d399" stroke-width="6" fill="none">
+    <circle cx="120" cy="560" r="28"/>
+    <circle cx="250" cy="500" r="28"/>
+    <circle cx="390" cy="570" r="28"/>
+    <circle cx="490" cy="470" r="28"/>
+    <line x1="145" y1="548" x2="225" y2="512"/>
+    <line x1="278" y1="513" x2="362" y2="556"/>
+    <line x1="412" y1="549" x2="468" y2="491"/>
+  </g>
+  <text x="60" y="760" fill="#d1d5db" font-family="Helvetica, Arial, sans-serif" font-size="24">Angelia Nedic · Alexander Olshevsky</text>
+  <text x="60" y="795" fill="#d1d5db" font-family="Helvetica, Arial, sans-serif" font-size="24">Gauri Joshi</text>
+</svg>
