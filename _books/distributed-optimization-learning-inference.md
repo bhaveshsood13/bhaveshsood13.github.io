@@ -2,7 +2,7 @@
 layout: book-review
 title: Distributed Optimization, Learning, and Inference
 author: Angelia Nedic, Alexander Olshevsky, and Gauri Joshi
-cover: assets/img/book_covers/distributed-optimization.svg
+cover: assets/img/book_covers/distributed-optimization.webp
 categories: optimization distributed-systems machine-learning
 tags: completed
 started: 2025-09-01

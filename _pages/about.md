@@ -32,9 +32,9 @@ latest_posts:
   margin-left: 10px !important;
 }
 </style> -->
-Hey there ! I am Bhavesh Sood, a Master's Student at Carnegie Mellon University, currently pursuing research in ML under Prof. Matt Gormley in the ML Department.
+I am Bhavesh Sood, a Master's student at Carnegie Mellon University, currently working with Prof. Matt Gormley in the Machine Learning Department. My current interests are in language models, especially ideas around self-consistency, decision making over multiple generations, and MBR-style approaches for improving reasoning and output quality.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/bhavesh-sood/) and [GitHub](https://github.com/bhaveshsood13).
+Before CMU, I worked on ML systems and applied modeling in industry, including time at Palo Alto Networks and Expedia Group. You can also find me on [LinkedIn](https://www.linkedin.com/in/bhavesh-sood/) and [GitHub](https://github.com/bhaveshsood13).
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 <!-- 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
